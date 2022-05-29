@@ -9,11 +9,11 @@
 
 package leetcode13;
 
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+
 public class Main {
-
-    public static void main(String[] args) {
-	// TODO Auto-generated method stub
-
+    public static void main(String[] args) throws Exception {
+	String input = (new BufferedReader(new InputStreamReader(System.in))).readLine();
     }
-
 }
